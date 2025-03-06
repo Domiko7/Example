@@ -1,9 +1,5 @@
 # Template
-<img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
-
-------
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Clone Count](https://img.shields.io/badge/clones-123-blue)
+<img alt="Discord" src="https://img.shields.io/discord/1334954823598084217">
 
 ------
 
