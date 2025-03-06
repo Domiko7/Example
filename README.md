@@ -1,25 +1,25 @@
-# 模板
+# Template
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- This is an ExpTech GitHub template.
 
-## 索引
-- [貢獻者](#貢獻者)
-- [發佈規則](#發佈規則)
-- [合作](#合作)
+## Index
+- [Contributors](#contributors)
+- [Release Rules](#release-rules)
+- [Collaboration](#collaboration)
 
-## 貢獻者
-- whes1015 `文檔`
+## Contributors
+- whes1015 `Documentation`
 
 ------
 
-## 發佈規則
-- 如果新版本中有錯誤，且尚未列出，請將錯誤資訊提交到 ```issue```
-- 如果您使用任何形式的辱罵性或貶義性語言給其他用戶，您將永遠被封禁！
-- 不要發送重複無意義內容至 ```issue```，否則您將永遠被封禁！
-- 若有任何問題或建議，歡迎提出
+## Release Rules
+- If there is a bug in the new version that has not been listed, please submit the bug information to an ```issue```.
+- If you use any form of abusive or derogatory language toward other users, you will be permanently banned!
+- Do not post repetitive or meaningless content to the ```issue```, or you will be permanently banned!
+- If you have any questions or suggestions, feel free to raise them.
 
-## 合作
-- 若有任何可以改進的地方，歡迎使用 ```Pull requests``` 來提交
+## Collaboration
+- If there are any areas for improvement, feel free to submit a ```Pull request```.
