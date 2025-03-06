@@ -3,6 +3,10 @@
 
 ------
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Clone Count](https://img.shields.io/badge/clones-123-blue)
+
+------
+
 - This is an ExpTech GitHub template.
 
 ## Index
@@ -15,11 +19,21 @@
 
 ------
 
-## Release Rules
-- If there is a bug in the new version that has not been listed, please submit the bug information to an ```issue```.
-- If you use any form of abusive or derogatory language toward other users, you will be permanently banned!
-- Do not post repetitive or meaningless content to the ```issue```, or you will be permanently banned!
-- If you have any questions or suggestions, feel free to raise them.
+## Installation
+
+To get started, clone this repository:
+
+```bash
+git clone https://github.com/username/my-awesome-project.git
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -am 'Add feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a new Pull Request
 
 ## Collaboration
 - If there are any areas for improvement, feel free to submit a ```Pull request```.
+
